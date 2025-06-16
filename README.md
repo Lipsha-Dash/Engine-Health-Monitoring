@@ -6,7 +6,7 @@ This project predicts the Remaining Useful Life (RUL) of aircraft engines using 
 - Preprocess the CMAPSS dataset
 - Train models to estimate RUL
 - Evaluate model performance
-- (Optional) Deploy with Streamlit for visualization
+- Deploy with Streamlit for visualization
 
 ## Tech Stack
 - Python
