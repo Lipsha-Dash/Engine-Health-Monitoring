@@ -1,0 +1,22 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model files or outputs
+*.pkl
+*.h5
+
+# Dataset files
+*.csv
+*.zip
+
+# Streamlit logs and environment files
+.streamlit/
+*.env
+
+# OS files
+Thumbs.db
+.DS_Store
